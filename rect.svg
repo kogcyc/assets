@@ -12,13 +12,13 @@
      width="160"
      height="32"
      rx="4"
-     style="fill:#668855;"
+     style="fill:#eedd77;"
      id="rect2" />
   <text
      x="6"
      y="19"
-     font-size="11px"
-     fill="white"
+     font-size="12px"
+     fill="black"
      font-family="sans-serif"
      font-weight="900"
      id="text4">kogswell cycles</text>
